@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rguiu/)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/193004/raul-guiu)
 
-Staff Software Engineer · 25 years building distributed systems · Physics
+Staff Software Engineer · 25 years building distributed systems
 
 Currently focused on **LLM inference infrastructure**: request routing, distributed coordination, and performance optimisation at scale. Currently Ebury · Previously Amazon, Betfair, VISA, Nokia
 
